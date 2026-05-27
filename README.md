@@ -1,11 +1,2 @@
-
-  # Xeer Home Screen Design
-
-  This is a code bundle for Xeer Home Screen Design. The original project is available at https://www.figma.com/design/JbUoHsaN7B6n9Yb36VQMX5/Xeer-Home-Screen-Design.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+# xeer
+Xeer is a modern reading web app for PDFs and EPUBs with a customizable reading experience. It supports dark/light mode, font controls, page or scroll view, file search, pinned books, and persistent per-file reading settings with a saved library across sessions.
